@@ -18,6 +18,16 @@ This project demonstrates my ability to design and implement a relational databa
 - **Views:** Developed `v_ActiveShipments` to provide a simplified, pre-filtered data layer for business stakeholders.
 - **Data Cleaning:** Used `COALESCE` and `CONVERT` to handle missing data and ensure clean reporting.
 
+### 4. Data Optimization & Performance Lab
+- **Data Deduplication:** Implemented logic to identify and isolate redundant records using GROUP BY and HAVING clauses, ensuring data accuracy.
+- **N-th Highest Salary Analysis:** Developed efficient solutions for "Top-N" problems using ROW_NUMBER() and CTE patterns—a critical skill for business reporting.
+- **Partitioned Analytics:** Leveraged PARTITION BY across multiple dimensions (Department, City, Position) to generate localized insights without collapsing the dataset.
+- **Ranking Strategies:** Demonstrated the practical application of DENSE_RANK() vs ROW_NUMBER() to handle "tied" values in financial datasets.
+
+## Files Included
+- **Logistics-Operations-Management-System-SQL.sql:** The full relational architecture and automation suite.
+- **SQL-Query-Optimization-Lab.sql:** Focused exercises on advanced window functions, deduplication, and analytical problem-solving.
+
 ##  Tech Stack
 - **Database Engine:** Microsoft SQL Server (T-SQL)
 - **Tooling:** SQL Server Management Studio (SSMS)
