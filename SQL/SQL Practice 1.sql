@@ -401,4 +401,4 @@ ELSE
 BEGIN
     PRINT('No discount applied')
 END
-END+
+END
