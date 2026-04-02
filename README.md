@@ -9,8 +9,3 @@ This repository documents my journey and technical growth as a Data Engineer. Ea
 * **Processing:** Azure Databricks, Delta Lake
 * **Storage:** Azure Data Lake Gen2, SQL DB, Cosmos DB
 * **Analytics:** Azure Synapse Analytics
-
-## Key Projects
-### 1. Logistics-Operations-Management-System-SQL [SQL]
-- **Focus:** Relational Design, Automation, and Analytics.
-- **Key Features:** Stored Procedures for delivery automation, CTEs for weight analysis, and Window Functions for driver ranking.
